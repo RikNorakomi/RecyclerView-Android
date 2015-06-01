@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Google Design Specs:
+    Color Pallette: http://www.google.com/design/spec/style/color.html#color-color-palette
+    // Toolbar:                                 Purple color 400 = #AB47BC
+    // Status Bar should be 200 tint darker:    Purple Color 600 = #8E24AA
+    // Accent color:                            Pink 500 = #EC407A:
+    -->
+
+    <color name="primaryColor">#AB47BC</color>
+    <color name="primaryColorDark">#8E24AA</color>
+    <color name="accentColor">#EC407A</color>
+</resources>

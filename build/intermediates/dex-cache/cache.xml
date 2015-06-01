@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\MEDION\Desktop\ANDROID\YOUTUBE\DEREKBANAS_APPS25_NAVDRAWER\CustomToolbarTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\MEDION\Desktop\ANDROID\YOUTUBE\DEREKBANAS_APPS25_NAVDRAWER\CustomToolbarTest\app\build\intermediates\pre-dexed\debug\classes-1d0e8cd5f40546eea84a4b0b7032c6cf02ddf40a.jar" />
+    </item>
+    <item
+        jar="C:\Users\MEDION\Desktop\ANDROID\RecyclerViewActivity\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\MEDION\Desktop\ANDROID\RecyclerViewActivity\app\build\intermediates\pre-dexed\debug\classes-e8547f901d799deff9015ea31b429489438e0bbd.jar" />
+    </item>
+    <item
+        jar="C:\Users\MEDION\Desktop\ANDROID\RecyclerViewActivity\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\MEDION\Desktop\ANDROID\RecyclerViewActivity\app\build\intermediates\pre-dexed\debug\classes-a36a066a7ea8d646b3a697d206c6f7204bedb04a.jar" />
+    </item>
+    <item
+        jar="C:\Users\MEDION\Desktop\ANDROID\RecyclerViewActivity\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\MEDION\Desktop\ANDROID\RecyclerViewActivity\app\build\intermediates\pre-dexed\debug\classes-b65523332d5e291f6cd6bc8f692aa3ec5213cf3a.jar" />
+    </item>
+    <item
+        jar="C:\Users\MEDION\Desktop\ANDROID\YOUTUBE\DEREKBANAS_APPS25_NAVDRAWER\CustomToolbarTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\MEDION\Desktop\ANDROID\YOUTUBE\DEREKBANAS_APPS25_NAVDRAWER\CustomToolbarTest\app\build\intermediates\pre-dexed\debug\classes-b9e81a4cf8678175651f67d59728ffd74b249950.jar" />
+    </item>
+    <item
+        jar="C:\Users\MEDION\Desktop\ANDROID\RecyclerViewActivity\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\MEDION\Desktop\ANDROID\RecyclerViewActivity\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-7956222ccbf20907fa127d3d94a6220ee44f29a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\MEDION\Desktop\ANDROID\YOUTUBE\DEREKBANAS_APPS25_NAVDRAWER\CustomToolbarTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\MEDION\Desktop\ANDROID\YOUTUBE\DEREKBANAS_APPS25_NAVDRAWER\CustomToolbarTest\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-72820e077e19f5a34630e519a265e50fdafe2ef8.jar" />
+    </item>
+    <item
+        jar="C:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\MEDION\Desktop\ANDROID\YOUTUBE\DEREKBANAS_APPS25_NAVDRAWER\CustomToolbarTest\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-ea44af60c1c44ea700edff096d9fa2b0907c3c8e.jar" />
+    </item>
+
+</items>
